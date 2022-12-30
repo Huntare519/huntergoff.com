@@ -1,0 +1,119 @@
+{
+    "quotes": [
+        {
+            "id": 0,
+            "quote": "Not all who wander are lost",
+            "attributed_to": "JRR Tolkien"
+        },
+        {
+            "id": 1,
+            "quote": "I only regret that I have but one life to lose for my country",
+            "attributed_to": "Nathan Hale"
+        },
+        {
+            "id": 2,
+            "quote": "I went to the woods because I wished to live deliberately",
+            "attributed_to": "Henry David Thoreau"
+        },
+        {
+            "id": 3,
+            "quote": "The people who are crazy enough to think they can change the world are the ones who do",
+            "attributed_to": "Steve Jobs"
+        },
+        {
+            "id": 4,
+            "quote": "The work of an individual still remains the spark that moves mankind forward",
+            "attributed_to": "Igor Sikorsky"
+        },
+        {
+            "id": 5,
+            "quote": "Do or do not, there is no try",
+            "attributed_to": "Yoda"
+        },
+        {
+            "id": 6,
+            "quote": "The ability to speak does not make you intelligent",
+            "attributed_to": "Qui-Gon Jinn"
+        },
+        {
+            "id": 7,
+            "quote": "fu bu guo san dai (wealth doesn't make it past three generations)",
+            "attributed_to": "Chinese proverb"
+        },
+        {
+            "id": 8,
+            "quote": "Imagination is more important than knowledge",
+            "attributed_to": "Albert Einstein"
+        },
+        {
+            "id": 9,
+            "quote": "The United States government is basically a large insurance company backed by the largest free standing army in the world",
+            "attributed_to": "unknown"
+        },
+        {
+            "id": 10,
+            "quote": "Nobody climbs a mountain to get to the middle",
+            "attributed_to": "Jim Koch"
+        },
+        {
+            "id": 11,
+            "quote": "If a corporation was a person it would be a sociopath",
+            "attributed_to": "unknown"
+        },
+        {
+            "id": 12,
+            "quote": "The mass of men lead lives in quiet desperation",
+            "attributed_to": "Henry David Thoreau"
+        },
+        {
+            "id": 13,
+            "quote": "He who has many friends has no friends",
+            "attributed_to": "Aristotle"
+        },
+        {
+            "id": 14,
+            "quote": "Whoever fights monsters should see to it that in the process he does not become a monster",
+            "attributed_to": "Friedrich Nietzsche"
+        },
+        {
+            "id": 15,
+            "quote": "History will be kind to me, for I intend to write it",
+            "attributed_to": "Winston Churchill"
+        },
+        {
+            "id": 16,
+            "quote": "I\u2019ve made every mistake in the book, but I\u2019ve only made them once",
+            "attributed_to": "Jake Carpenter"
+        },
+        {
+            "id": 17,
+            "quote": "The mark of the immature man is that he wants to die nobly for a cause, while the mark of the mature man is that he wants to live humbly for one",
+            "attributed_to": "Wilhelm Stekel"
+        },
+        {
+            "id": 18,
+            "quote": "We are like the spider",
+            "attributed_to": "We weave our life and then move along in it"
+        },
+        {
+            "id": 19,
+            "quote": "It takes more than intelligence to act intelligently",
+            "attributed_to": "Crime and Punishment"
+        },
+        {
+            "id": 20,
+            "quote": "Don't worry about what anybody else is going to do",
+            "attributed_to": "The best way to predict the future is to invent it"
+        },
+        {
+            "id": 21,
+            "quote": "The imagination of nature is far, far greater than the imagination of man",
+            "attributed_to": "Richard Feyman"
+        },
+        {
+            "id": 22,
+            "quote": "The 4 immutable laws of the spirit: 1) whoever is present are the right people 2) whatever happens is the only thing that could have happened 3) whenever is begins is the right time 4) when it's over, it's over",
+            "attributed_to": "Ram Dass"
+        }
+    ]
+}

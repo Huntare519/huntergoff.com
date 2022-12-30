@@ -1,0 +1,2068 @@
+{
+    "books": [
+        {
+            "id": 1,
+            "title": "Trust",
+            "ISBN_10": "9780593420317",
+            "thumbnail": "http://books.google.com/books/content?id=NKdPEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=NKdPEAAAQBAJ&dq=Trust&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 2,
+            "title": "The Naked Sun",
+            "ISBN_10": "9780307792402",
+            "thumbnail": "http://books.google.com/books/content?id=7pdVUgBL6Z4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "https://play.google.com/store/books/details?id=7pdVUgBL6Z4C&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 3,
+            "title": "The Caves of Steel",
+            "ISBN_10": "UVA:X000100282",
+            "thumbnail": "http://books.google.com/books/content?id=sSJHAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=sSJHAAAAYAAJ&dq=The+Caves+of+Steel&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 4,
+            "title": "I, Robot",
+            "ISBN_10": "000753227X",
+            "thumbnail": "http://books.google.com/books/content?id=vwb5mgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=vwb5mgEACAAJ&dq=I,+Robot&hl=&source=gbs_api",
+            "favorite": true
+        },
+        {
+            "id": 5,
+            "title": "The Pilgrimage",
+            "ISBN_10": "0061687456",
+            "thumbnail": "http://books.google.com/books/content?id=gn8emAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=gn8emAEACAAJ&dq=The+Pilgrimage&hl=&source=gbs_api",
+            "favorite": true
+        },
+        {
+            "id": 6,
+            "title": "Tinker Tailor Soldier Spy",
+            "ISBN_10": "9780743457903",
+            "thumbnail": "http://books.google.com/books/content?id=Ia785bbC57IC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=Ia785bbC57IC&dq=Tinker+Tailor+Soldier+Spy&hl=&source=gbs_api",
+            "favorite": true
+        },
+        {
+            "id": 7,
+            "title": "Principles: Ray Dalio",
+            "ISBN_10": "9781982112387",
+            "thumbnail": "http://books.google.com/books/content?id=qNNmDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=qNNmDwAAQBAJ&dq=Principles:+Ray+Dalio&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 8,
+            "title": "The Lady of the Lake: Witcher",
+            "ISBN_10": "9780316273770",
+            "thumbnail": "http://books.google.com/books/content?id=Uxz6DAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "https://play.google.com/store/books/details?id=Uxz6DAAAQBAJ&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 9,
+            "title": "The Tower of Swallows",
+            "ISBN_10": "1473211573",
+            "thumbnail": "http://books.google.com/books/content?id=ohTCDAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=ohTCDAEACAAJ&dq=The+Tower+of+Swallows&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 10,
+            "title": "The Cult of We",
+            "ISBN_10": "9780593237137",
+            "thumbnail": "http://books.google.com/books/content?id=VC5iEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=VC5iEAAAQBAJ&dq=The+Cult+of+We&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 11,
+            "title": "A Memory of Light",
+            "ISBN_10": "9780765325952",
+            "thumbnail": "http://books.google.com/books/content?id=L0hFAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=L0hFAwAAQBAJ&dq=A+Memory+of+Light&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 12,
+            "title": "Towers of Midnight",
+            "ISBN_10": "9781429960632",
+            "thumbnail": "http://books.google.com/books/content?id=muXgq4C2UtoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "https://play.google.com/store/books/details?id=muXgq4C2UtoC&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 13,
+            "title": "The Gathering Storm",
+            "ISBN_10": "0765302306",
+            "thumbnail": "http://books.google.com/books/content?id=aYwWeXYnTBMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=aYwWeXYnTBMC&dq=The+Gathering+Storm&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 14,
+            "title": "Crossroads of Twilight",
+            "ISBN_10": "0312864590",
+            "thumbnail": "http://books.google.com/books/content?id=-RfzDkklkmkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=-RfzDkklkmkC&dq=Crossroads+of+Twilight&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 15,
+            "title": "Winter's Heart",
+            "ISBN_10": "9780812575583",
+            "thumbnail": "http://books.google.com/books/content?id=4W5RQY_MiMEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=4W5RQY_MiMEC&dq=Winter%27s+Heart&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 16,
+            "title": "The Business Blockchain: : promise, practice, and application of the next internet technology",
+            "ISBN_10": "9781119300311",
+            "thumbnail": "http://books.google.com/books/content?id=X8oXDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=X8oXDAAAQBAJ&dq=The+Business+Blockchain:+:+promise,+practice,+and+application+of+the+next+internet+technology&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 17,
+            "title": "The Path of Daggers",
+            "ISBN_10": "9781429960595",
+            "thumbnail": "http://books.google.com/books/content?id=Tv9kLyxuRygC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "https://play.google.com/store/books/details?id=Tv9kLyxuRygC&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 18,
+            "title": "Novel of the Next World War 2034",
+            "ISBN_10": "9798729439348",
+            "thumbnail": "http://books.google.com/books/content?id=yExdzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=yExdzgEACAAJ&dq=Novel+of+the+Next+World+War+2034&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 19,
+            "title": "A Crown of Swords",
+            "ISBN_10": "9780812550283",
+            "thumbnail": "http://books.google.com/books/content?id=d0lWqpVm9YkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=d0lWqpVm9YkC&dq=A+Crown+of+Swords&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 20,
+            "title": "Lord of Chaos",
+            "ISBN_10": "9780812513752",
+            "thumbnail": "http://books.google.com/books/content?id=owkKhVCq6f0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=owkKhVCq6f0C&dq=Lord+of+Chaos&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 21,
+            "title": "The Fires of Heaven",
+            "ISBN_10": "0312854277",
+            "thumbnail": "http://books.google.com/books/content?id=HbBZQtf9MGAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=HbBZQtf9MGAC&dq=The+Fires+of+Heaven&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 22,
+            "title": "The Shadow Rising",
+            "ISBN_10": "9781429960199",
+            "thumbnail": "http://books.google.com/books/content?id=EA1wODXZM_AC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "https://play.google.com/store/books/details?id=EA1wODXZM_AC&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 23,
+            "title": "Billion Dollar Whale",
+            "ISBN_10": "031643647X",
+            "thumbnail": "http://books.google.com/books/content?id=VQL_wAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=VQL_wAEACAAJ&dq=Billion+Dollar+Whale&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 24,
+            "title": "The Dragon Reborn",
+            "ISBN_10": "9780312852481",
+            "thumbnail": "http://books.google.com/books/content?id=sQkD884zKx8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=sQkD884zKx8C&dq=The+Dragon+Reborn&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 25,
+            "title": "The Great Hunt",
+            "ISBN_10": "9780812517729",
+            "thumbnail": "http://books.google.com/books/content?id=tuspQELrwhIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=tuspQELrwhIC&dq=The+Great+Hunt&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 26,
+            "title": "The Eye of the World",
+            "ISBN_10": "9780312850098",
+            "thumbnail": "http://books.google.com/books/content?id=BYQFV2D2vRcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=BYQFV2D2vRcC&dq=The+Eye+of+the+World&hl=&source=gbs_api",
+            "favorite": true
+        },
+        {
+            "id": 27,
+            "title": "The Lady of the Lake: (The Witcher Book 5)",
+            "ISBN_10": "1473231124",
+            "thumbnail": "http://books.google.com/books/content?id=CSbDzAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=CSbDzAEACAAJ&dq=The+Lady+of+the+Lake:+(The+Witcher+Book+5)&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 28,
+            "title": "The Tower of the Swallow: (The Witcher Book 4)",
+            "ISBN_10": "1473231116",
+            "thumbnail": "http://books.google.com/books/content?id=9-y6zAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=9-y6zAEACAAJ&dq=The+Tower+of+the+Swallow:+(The+Witcher+Book+4)&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 29,
+            "title": "Baptism of Fire",
+            "ISBN_10": "1473231108",
+            "thumbnail": "http://books.google.com/books/content?id=8ZDBzAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=8ZDBzAEACAAJ&dq=Baptism+of+Fire&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 30,
+            "title": "The Time of Contempt (The Witcher Book 2)",
+            "ISBN_10": "1473231094",
+            "thumbnail": "http://books.google.com/books/content?id=6p2uzAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=6p2uzAEACAAJ&dq=The+Time+of+Contempt+(The+Witcher+Book+2)&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 31,
+            "title": "Blood of Elves (The Witcher)",
+            "ISBN_10": "1473231078",
+            "thumbnail": "http://books.google.com/books/content?id=BJiazAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=BJiazAEACAAJ&dq=Blood+of+Elves+(The+Witcher)&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 32,
+            "title": "The Sword of Destiny",
+            "ISBN_10": "9781473211551",
+            "thumbnail": "http://books.google.com/books/content?id=HUQXCAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=HUQXCAAAQBAJ&dq=The+Sword+of+Destiny&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 33,
+            "title": "The Last Wish",
+            "ISBN_10": "0316149659",
+            "thumbnail": "http://books.google.com/books/content?id=PQ3joQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=PQ3joQEACAAJ&dq=The+Last+Wish&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 34,
+            "title": "Get a Financial Life",
+            "ISBN_10": "9780684872612",
+            "thumbnail": "http://books.google.com/books/content?id=HXrcaqjcuKIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=HXrcaqjcuKIC&dq=Get+a+Financial+Life&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 35,
+            "title": "Farewell to Arms",
+            "ISBN_10": "9781476764528",
+            "thumbnail": "http://books.google.com/books/content?id=V_rvAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=V_rvAwAAQBAJ&dq=Farewell+to+Arms&hl=&source=gbs_api",
+            "favorite": true
+        },
+        {
+            "id": 36,
+            "title": "Foundation and Earth",
+            "ISBN_10": "9780553587579",
+            "thumbnail": "http://books.google.com/books/content?id=qAyOEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=qAyOEAAAQBAJ&dq=Foundation+and+Earth&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 37,
+            "title": "Eragon",
+            "ISBN_10": "9780375890369",
+            "thumbnail": "http://books.google.com/books/content?id=Xt9e9yLsyuAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "https://play.google.com/store/books/details?id=Xt9e9yLsyuAC&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 38,
+            "title": "Eldest",
+            "ISBN_10": "9780375840401",
+            "thumbnail": "http://books.google.com/books/content?id=x5mODQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=x5mODQAAQBAJ&dq=Eldest&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 39,
+            "title": "Brisinger",
+            "ISBN_10": "8492833491",
+            "thumbnail": "http://books.google.com/books/content?id=g4edpwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=g4edpwAACAAJ&dq=Brisinger&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 40,
+            "title": "Inheritance: Christopher Paolini",
+            "ISBN_10": "9780375846311",
+            "thumbnail": "http://books.google.com/books/content?id=NNsoed6bmNMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=NNsoed6bmNMC&dq=Inheritance:+Christopher+Paolini&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 41,
+            "title": "Shoe Dog",
+            "ISBN_10": "1501135910",
+            "thumbnail": "http://books.google.com/books/content?id=UmyfjgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=UmyfjgEACAAJ&dq=Shoe+Dog&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 42,
+            "title": "Outliers the Story of Success",
+            "ISBN_10": "9781504043144",
+            "thumbnail": "http://books.google.com/books/content?id=E4p4DQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "https://play.google.com/store/books/details?id=E4p4DQAAQBAJ&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 43,
+            "title": "The Fellowship of the Ring",
+            "ISBN_10": "0395489318",
+            "thumbnail": "http://books.google.com/books/content?id=Y3695-45croC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=Y3695-45croC&dq=The+Fellowship+of+the+Ring&hl=&source=gbs_api",
+            "favorite": true
+        },
+        {
+            "id": 44,
+            "title": "The Two Towers",
+            "ISBN_10": "9780261102361",
+            "thumbnail": "http://books.google.com/books/content?id=ebyPyQWmUA8C&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=ebyPyQWmUA8C&dq=The+Two+Towers&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 45,
+            "title": "The Return of the King",
+            "ISBN_10": "0007488343",
+            "thumbnail": "http://books.google.com/books/content?id=1EcBuwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=1EcBuwAACAAJ&dq=The+Return+of+the+King&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 46,
+            "title": "The Hobbit",
+            "ISBN_10": "0547928246",
+            "thumbnail": "http://books.google.com/books/content?id=RXPjuQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=RXPjuQAACAAJ&dq=The+Hobbit&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 47,
+            "title": "The Lord of the Flies",
+            "ISBN_10": "0399501487",
+            "thumbnail": "http://books.google.com/books/content?id=3C-4dsIGlEgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=3C-4dsIGlEgC&dq=The+Lord+of+the+Flies&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 48,
+            "title": "Valley of the Gods: A Silicon Valley Story",
+            "ISBN_10": "9781476778945",
+            "thumbnail": "http://books.google.com/books/content?id=UmbUDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=UmbUDQAAQBAJ&dq=Valley+of+the+Gods:+A+Silicon+Valley+Story&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 49,
+            "title": "The Da Vinci Code",
+            "ISBN_10": "9780307474278",
+            "thumbnail": "http://books.google.com/books/content?id=YuDl2Wl651AC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=YuDl2Wl651AC&dq=The+Da+Vinci+Code&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 50,
+            "title": "Angels and Demons",
+            "ISBN_10": "9780552170017",
+            "thumbnail": "http://books.google.com/books/content?id=nXrxGCVd9UoC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=nXrxGCVd9UoC&dq=Angels+and+Demons&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 51,
+            "title": "Inferno",
+            "ISBN_10": "9781400079155",
+            "thumbnail": "http://books.google.com/books/content?id=IAKLDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=IAKLDQAAQBAJ&dq=Inferno&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 52,
+            "title": "The Lost Symbol",
+            "ISBN_10": "9780307950680",
+            "thumbnail": "http://books.google.com/books/content?id=Jk1obpz7ioUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=Jk1obpz7ioUC&dq=The+Lost+Symbol&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 53,
+            "title": "Digital Fortress",
+            "ISBN_10": "9781250898036",
+            "thumbnail": "http://books.google.com/books/content?id=e92DEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=e92DEAAAQBAJ&dq=Digital+Fortress&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 54,
+            "title": "Deception Point",
+            "ISBN_10": "2253123161",
+            "thumbnail": "http://books.google.com/books/content?id=-JthPwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=-JthPwAACAAJ&dq=Deception+Point&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 55,
+            "title": "Animal Farm",
+            "ISBN_10": "9780451526342",
+            "thumbnail": "http://books.google.com/books/content?id=Q8eNEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=Q8eNEAAAQBAJ&dq=Animal+Farm&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 56,
+            "title": "Bitcoin: And the Future of Money: Jose Pagliery",
+            "ISBN_10": "9781629370361",
+            "thumbnail": "http://books.google.com/books/content?id=_-wuBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=_-wuBAAAQBAJ&dq=Bitcoin:+And+the+Future+of+Money:+Jose+Pagliery&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 57,
+            "title": "The Crucible",
+            "ISBN_10": "0140481389",
+            "thumbnail": "http://books.google.com/books/content?id=Moio5nt1FB8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=Moio5nt1FB8C&dq=The+Crucible&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 58,
+            "title": "Of Mice and Men",
+            "ISBN_10": "0140186425",
+            "thumbnail": "http://books.google.com/books/content?id=nE_Si_bv-W4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=nE_Si_bv-W4C&dq=Of+Mice+and+Men&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 59,
+            "title": "Huckleberry Finn",
+            "ISBN_10": "9780486280615",
+            "thumbnail": "http://books.google.com/books/content?id=mWHcDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=mWHcDAAAQBAJ&dq=Huckleberry+Finn&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 60,
+            "title": "The Things They Carried",
+            "ISBN_10": "9780547420295",
+            "thumbnail": "http://books.google.com/books/content?id=Op6eKrkxPq4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "https://play.google.com/store/books/details?id=Op6eKrkxPq4C&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 61,
+            "title": "A Separate Peace",
+            "ISBN_10": "1471139107",
+            "thumbnail": "http://books.google.com/books/content?id=PTt7oAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=PTt7oAEACAAJ&dq=A+Separate+Peace&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 62,
+            "title": "Steelheart",
+            "ISBN_10": "9780593307120",
+            "thumbnail": "http://books.google.com/books/content?id=F_T2DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=F_T2DwAAQBAJ&dq=Steelheart&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 63,
+            "title": "Mitosis: A Reckoners Story",
+            "ISBN_10": "1473209358",
+            "thumbnail": "http://books.google.com/books/content?id=VOegoAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=VOegoAEACAAJ&dq=Mitosis:+A+Reckoners+Story&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 64,
+            "title": "Firefight",
+            "ISBN_10": "9780593307137",
+            "thumbnail": "http://books.google.com/books/content?id=G_T2DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=G_T2DwAAQBAJ&dq=Firefight&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 65,
+            "title": "Calamity",
+            "ISBN_10": "057510497X",
+            "thumbnail": "http://books.google.com/books/content?id=PV5KngEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=PV5KngEACAAJ&dq=Calamity&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 66,
+            "title": "The Giver",
+            "ISBN_10": "9780544340688",
+            "thumbnail": "http://books.google.com/books/content?id=Coi9AwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=Coi9AwAAQBAJ&dq=The+Giver&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 67,
+            "title": "The Smartest Kids in the World: and How They Got That Way",
+            "ISBN_10": "9781451654431",
+            "thumbnail": "http://books.google.com/books/content?id=jogRBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=jogRBAAAQBAJ&dq=The+Smartest+Kids+in+the+World:+and+How+They+Got+That+Way&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 68,
+            "title": "Ender's Game",
+            "ISBN_10": "9780765394866",
+            "thumbnail": "http://books.google.com/books/content?id=jaM7DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=jaM7DwAAQBAJ&dq=Ender%27s+Game&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 69,
+            "title": "The Perks of Being a Wallflower",
+            "ISBN_10": "9781451696196",
+            "thumbnail": "http://books.google.com/books/content?id=pK0X5FyUs28C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=pK0X5FyUs28C&dq=The+Perks+of+Being+a+Wallflower&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 70,
+            "title": "Anne Frank: The Diary of a Young Girl",
+            "ISBN_10": "1561376078",
+            "thumbnail": "http://books.google.com/books/content?id=wXJnPwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=wXJnPwAACAAJ&dq=Anne+Frank:+The+Diary+of+a+Young+Girl&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 71,
+            "title": "American Kingpin",
+            "ISBN_10": "9780143129028",
+            "thumbnail": "http://books.google.com/books/content?id=6xlZDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=6xlZDwAAQBAJ&dq=American+Kingpin&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 72,
+            "title": "Elie Wiesel's Night",
+            "ISBN_10": "9781604138672",
+            "thumbnail": "http://books.google.com/books/content?id=2ZyC0cz_KcUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=2ZyC0cz_KcUC&dq=Elie+Wiesel%27s+Night&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 73,
+            "title": "Ghost Fleet",
+            "ISBN_10": "054470505X",
+            "thumbnail": "http://books.google.com/books/content?id=-f39sgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=-f39sgEACAAJ&dq=Ghost+Fleet&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 74,
+            "title": "Erebos",
+            "ISBN_10": "9781554514601",
+            "thumbnail": "http://books.google.com/books/content?id=OrJQEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "https://play.google.com/store/books/details?id=OrJQEAAAQBAJ&source=gbs_api",
+            "favorite": true
+        },
+        {
+            "id": 75,
+            "title": "Brave New World",
+            "ISBN_10": "3425048570",
+            "thumbnail": "http://books.google.com/books/content?id=V0udPwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=V0udPwAACAAJ&dq=Brave+New+World&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 76,
+            "title": "Ready Player One",
+            "ISBN_10": "9780804190145",
+            "thumbnail": "http://books.google.com/books/content?id=WwtFDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=WwtFDwAAQBAJ&dq=Ready+Player+One&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 77,
+            "title": "Zero to One",
+            "ISBN_10": "9780804139304",
+            "thumbnail": "http://books.google.com/books/content?id=ZH4oAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "https://play.google.com/store/books/details?id=ZH4oAwAAQBAJ&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 78,
+            "title": "The Hound of the Baskervilles",
+            "ISBN_10": "9780451528018",
+            "thumbnail": "http://books.google.com/books/content?id=e8eNEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=e8eNEAAAQBAJ&dq=The+Hound+of+the+Baskervilles&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 79,
+            "title": "The Alchemist",
+            "ISBN_10": "9780061122415",
+            "thumbnail": "http://books.google.com/books/content?id=pTr44Sx6oWQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=pTr44Sx6oWQC&dq=The+Alchemist&hl=&source=gbs_api",
+            "favorite": true
+        },
+        {
+            "id": 80,
+            "title": "Grit",
+            "ISBN_10": "9781501111105",
+            "thumbnail": "http://books.google.com/books/content?id=PAMODAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=PAMODAAAQBAJ&dq=Grit&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 81,
+            "title": "The End of Theory",
+            "ISBN_10": "9780691191850",
+            "thumbnail": "http://books.google.com/books/content?id=zViYDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=zViYDwAAQBAJ&dq=The+End+of+Theory&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 82,
+            "title": "When Breath Becomes Air",
+            "ISBN_10": "9780812988406",
+            "thumbnail": "http://books.google.com/books/content?id=93faCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=93faCwAAQBAJ&dq=When+Breath+Becomes+Air&hl=&source=gbs_api",
+            "favorite": true
+        },
+        {
+            "id": 83,
+            "title": "Astrophysics for People in a Hurry",
+            "ISBN_10": "9780393356519",
+            "thumbnail": "http://books.google.com/books/content?id=WkZmDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "https://play.google.com/store/books/details?id=WkZmDwAAQBAJ&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 84,
+            "title": "Feed",
+            "ISBN_10": "9780763662622",
+            "thumbnail": "http://books.google.com/books/content?id=5n8tDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=5n8tDwAAQBAJ&dq=Feed&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 85,
+            "title": "The Adventures of Sherlock Holmes",
+            "ISBN_10": "9781480489691",
+            "thumbnail": "http://books.google.com/books/content?id=OJY5AwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "https://play.google.com/store/books/details?id=OJY5AwAAQBAJ&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 86,
+            "title": "Origin",
+            "ISBN_10": "9780525563709",
+            "thumbnail": "http://books.google.com/books/content?id=zD9gDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=zD9gDwAAQBAJ&dq=Origin&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 87,
+            "title": "The Four: The Hidden DNA of Amazon, Apple, Facebook, and Google",
+            "ISBN_10": "9780735213678",
+            "thumbnail": "http://books.google.com/books/content?id=yHtnDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=yHtnDwAAQBAJ&dq=The+Four:+The+Hidden+DNA+of+Amazon,+Apple,+Facebook,+and+Google&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 88,
+            "title": "The Grapes of Wrath: bhJgd3hGdxQC",
+            "ISBN_10": "0143039431",
+            "thumbnail": "http://books.google.com/books/content?id=bhJgd3hGdxQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=bhJgd3hGdxQC&dq=The+Grapes+of+Wrath:+bhJgd3hGdxQC&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 89,
+            "title": "The Martian",
+            "ISBN_10": "9780593357132",
+            "thumbnail": "http://books.google.com/books/content?id=OPAgEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=OPAgEAAAQBAJ&dq=The+Martian&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 90,
+            "title": "Life 3.0",
+            "ISBN_10": "9781101946602",
+            "thumbnail": "http://books.google.com/books/content?id=2hIcDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "https://play.google.com/store/books/details?id=2hIcDgAAQBAJ&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 91,
+            "title": "Born a Crime",
+            "ISBN_10": "9780399588198",
+            "thumbnail": "http://books.google.com/books/content?id=fHyNEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=fHyNEAAAQBAJ&dq=Born+a+Crime&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 92,
+            "title": "Elon Musk",
+            "ISBN_10": "0062301233",
+            "thumbnail": "http://books.google.com/books/content?id=I3ymoAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=I3ymoAEACAAJ&dq=Elon+Musk&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 93,
+            "title": "To Kill a Mockingbird",
+            "ISBN_10": "9780099466734",
+            "thumbnail": "http://books.google.com/books/content?id=JQGv8eqVMrMC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=JQGv8eqVMrMC&dq=To+Kill+a+Mockingbird&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 94,
+            "title": "Never Let Me Go",
+            "ISBN_10": "9780307371331",
+            "thumbnail": "http://books.google.com/books/content?id=OBwDg13MGkMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=OBwDg13MGkMC&dq=Never+Let+Me+Go&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 95,
+            "title": "Modern Romance",
+            "ISBN_10": "0141981466",
+            "thumbnail": "http://books.google.com/books/content?id=HqQ5jgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=HqQ5jgEACAAJ&dq=Modern+Romance&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 96,
+            "title": "So Good They Can't Ignore You",
+            "ISBN_10": "0349415862",
+            "thumbnail": "http://books.google.com/books/content?id=4dUivgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=4dUivgAACAAJ&dq=So+Good+They+Can%27t+Ignore+You&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 97,
+            "title": "Call Me By Your Name",
+            "ISBN_10": "9780374707729",
+            "thumbnail": "http://books.google.com/books/content?id=ar4j52mEdLoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "https://play.google.com/store/books/details?id=ar4j52mEdLoC&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 98,
+            "title": "1984",
+            "ISBN_10": "8193545834",
+            "thumbnail": "http://books.google.com/books/content?id=aPlAtgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=aPlAtgEACAAJ&dq=1984&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 99,
+            "title": "The Great Gatsby (LARGE PRINT)",
+            "ISBN_10": "1099433622",
+            "thumbnail": "http://books.google.com/books/content?id=7oN-xQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=7oN-xQEACAAJ&dq=The+Great+Gatsby+(LARGE+PRINT)&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 100,
+            "title": "The Catcher in the Rye",
+            "ISBN_10": "0241950430",
+            "thumbnail": "http://books.google.com/books/content?id=T5IhvgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=T5IhvgAACAAJ&dq=The+Catcher+in+the+Rye&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 101,
+            "title": "Grimm\u2019s Fairy Tales",
+            "ISBN_10": "9780691182995",
+            "thumbnail": "http://books.google.com/books/content?id=p4abDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=p4abDwAAQBAJ&dq=Grimm%E2%80%99s+Fairy+Tales&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 102,
+            "title": "A Clockwork Orange",
+            "ISBN_10": "9780393239195",
+            "thumbnail": "http://books.google.com/books/content?id=fVnqpwphxeAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "https://play.google.com/store/books/details?id=fVnqpwphxeAC&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 103,
+            "title": "Freakonomics",
+            "ISBN_10": "9780062132345",
+            "thumbnail": "http://books.google.com/books/content?id=wNPnl5zYA-cC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=wNPnl5zYA-cC&dq=Freakonomics&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 104,
+            "title": "The Boys in the Boat",
+            "ISBN_10": "9780670025817",
+            "thumbnail": "http://books.google.com/books/content?id=WxqeDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=WxqeDAAAQBAJ&dq=The+Boys+in+the+Boat&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 105,
+            "title": "Sapiens",
+            "ISBN_10": "9780062316103",
+            "thumbnail": "http://books.google.com/books/content?id=FmyBAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "https://play.google.com/store/books/details?id=FmyBAwAAQBAJ&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 106,
+            "title": "The Acts of King Arthur and His Noble Knights",
+            "ISBN_10": "0143105450",
+            "thumbnail": "http://books.google.com/books/content?id=M9_DxKLb4dcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=M9_DxKLb4dcC&dq=The+Acts+of+King+Arthur+and+His+Noble+Knights&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 107,
+            "title": "Heart of Darkness",
+            "ISBN_10": "0486264645",
+            "thumbnail": "http://books.google.com/books/content?id=2c_lltYHOywC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=2c_lltYHOywC&dq=Heart+of+Darkness&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 108,
+            "title": "Foundation",
+            "ISBN_10": "9780553278392",
+            "thumbnail": "http://books.google.com/books/content?id=PKV6swEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=VrVWNolnwZMC&dq=Foundation&hl=&source=gbs_api",
+            "favorite": true
+        },
+        {
+            "id": 109,
+            "title": "Foundation and Empire",
+            "ISBN_10": "9780553382587",
+            "thumbnail": "http://books.google.com/books/content?id=HgGOEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=HgGOEAAAQBAJ&dq=Foundation+and+Empire&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 110,
+            "title": "Second Foundation",
+            "ISBN_10": "0008117519",
+            "thumbnail": "http://books.google.com/books/content?id=h4H3rQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=h4H3rQEACAAJ&dq=Second+Foundation&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 111,
+            "title": "Foundation's Edge",
+            "ISBN_10": "9780553293388",
+            "thumbnail": "http://books.google.com/books/content?id=Hf6NEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=Hf6NEAAAQBAJ&dq=Foundation%27s+Edge&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 112,
+            "title": "The Three-Body Problem",
+            "ISBN_10": "9780765377067",
+            "thumbnail": "http://books.google.com/books/content?id=QxbFBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=QxbFBAAAQBAJ&dq=The+Three-Body+Problem&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 113,
+            "title": "The Dark Forest",
+            "ISBN_10": "9781466853430",
+            "thumbnail": "http://books.google.com/books/content?id=WJfYBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "https://play.google.com/store/books/details?id=WJfYBQAAQBAJ&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 114,
+            "title": "The Memoirs of Sherlock Holmes",
+            "ISBN_10": "9780486115085",
+            "thumbnail": "http://books.google.com/books/content?id=M4FRFM8ntiIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "https://play.google.com/store/books/details?id=M4FRFM8ntiIC&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 115,
+            "title": "Death's End",
+            "ISBN_10": "9780765377104",
+            "thumbnail": "http://books.google.com/books/content?id=gebBDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=gebBDAAAQBAJ&dq=Death%27s+End&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 116,
+            "title": "The Road",
+            "ISBN_10": "9780307267450",
+            "thumbnail": "http://books.google.com/books/content?id=PfmjWho_zOAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "https://play.google.com/store/books/details?id=PfmjWho_zOAC&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 117,
+            "title": "The Kite Runner",
+            "ISBN_10": "9781594631931",
+            "thumbnail": "http://books.google.com/books/content?id=ykWQEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=ykWQEAAAQBAJ&dq=The+Kite+Runner&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 118,
+            "title": "Dune",
+            "ISBN_10": "9780143111580",
+            "thumbnail": "http://books.google.com/books/content?id=ydQiDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=ydQiDQAAQBAJ&dq=Dune&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 119,
+            "title": "Valley of Genius: The Uncensored History of Silicon Valley (As Told by the Hackers, Founders, and Freaks Who Made It Boom)",
+            "ISBN_10": "9781455559015",
+            "thumbnail": "http://books.google.com/books/content?id=pwo5DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "https://play.google.com/store/books/details?id=pwo5DwAAQBAJ&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 120,
+            "title": "Sh\u014dgun",
+            "ISBN_10": "1982603844",
+            "thumbnail": "http://books.google.com/books/content?id=p9qyxgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=p9qyxgEACAAJ&dq=Sh%C5%8Dgun&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 121,
+            "title": "Slaughterhouse-Five",
+            "ISBN_10": "9780385333849",
+            "thumbnail": "http://books.google.com/books/content?id=pWyLDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=pWyLDQAAQBAJ&dq=Slaughterhouse-Five&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 122,
+            "title": "How to Win at College: Surprising Secrets for Success from the Country's Top Students",
+            "ISBN_10": "9780767920223",
+            "thumbnail": "http://books.google.com/books/content?id=UF7PAU_FPW4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "https://play.google.com/store/books/details?id=UF7PAU_FPW4C&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 123,
+            "title": "Moneyland",
+            "ISBN_10": "9781782833338",
+            "thumbnail": "http://books.google.com/books/content?id=0O5PDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=0O5PDwAAQBAJ&dq=Moneyland&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 124,
+            "title": "Life Undercover: Fox",
+            "ISBN_10": "1785039148",
+            "thumbnail": "http://books.google.com/books/content?id=56RvygEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=56RvygEACAAJ&dq=Life+Undercover:+Fox&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 125,
+            "title": "The Poison Squad",
+            "ISBN_10": "9780143111122",
+            "thumbnail": "http://books.google.com/books/content?id=I8GrDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=I8GrDwAAQBAJ&dq=The+Poison+Squad&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 126,
+            "title": "Blink",
+            "ISBN_10": "0141022043",
+            "thumbnail": "http://books.google.com/books/content?id=NtKCngEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=NtKCngEACAAJ&dq=Blink&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 127,
+            "title": "The Handmaid's Tale",
+            "ISBN_10": "9780771008795",
+            "thumbnail": "http://books.google.com/books/content?id=cRPKOzWlOfUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=cRPKOzWlOfUC&dq=The+Handmaid%27s+Tale&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 128,
+            "title": "Into the Wild",
+            "ISBN_10": "9780307476869",
+            "thumbnail": "http://books.google.com/books/content?id=waBwNtI6rSwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "https://play.google.com/store/books/details?id=waBwNtI6rSwC&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 129,
+            "title": "Elephant Run",
+            "ISBN_10": "0545105668",
+            "thumbnail": "http://books.google.com/books/content?id=JLXhUIg-vK4C&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=JLXhUIg-vK4C&dq=Elephant+Run&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 130,
+            "title": "Harry potter and the cursed child",
+            "ISBN_10": "0751565369",
+            "thumbnail": "http://books.google.com/books/content?id=kLAoswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=kLAoswEACAAJ&dq=Harry+potter+and+the+cursed+child&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 131,
+            "title": "The Maze Runner: YdqKDQAAQBAJ",
+            "ISBN_10": "9780385385206",
+            "thumbnail": "http://books.google.com/books/content?id=YdqKDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=YdqKDQAAQBAJ&dq=The+Maze+Runner:+YdqKDQAAQBAJ&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 132,
+            "title": "The Scorch Trials",
+            "ISBN_10": "9780553538410",
+            "thumbnail": "http://books.google.com/books/content?id=arTZCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=arTZCwAAQBAJ&dq=The+Scorch+Trials&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 133,
+            "title": "The Death Cure",
+            "ISBN_10": "9781524714451",
+            "thumbnail": "http://books.google.com/books/content?id=EpJADwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=EpJADwAAQBAJ&dq=The+Death+Cure&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 134,
+            "title": "The Kill Order",
+            "ISBN_10": "9781908435699",
+            "thumbnail": "http://books.google.com/books/content?id=dZdGBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=dZdGBAAAQBAJ&dq=The+Kill+Order&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 135,
+            "title": "Raven's Gate",
+            "ISBN_10": "0439856299",
+            "thumbnail": "http://books.google.com/books/content?id=CDhvP8euGhkC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=CDhvP8euGhkC&dq=Raven%27s+Gate&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 136,
+            "title": "Evil Star",
+            "ISBN_10": "1406338869",
+            "thumbnail": "http://books.google.com/books/content?id=jA6wMQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=jA6wMQEACAAJ&dq=Evil+Star&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 137,
+            "title": "Nightrise",
+            "ISBN_10": "1406338877",
+            "thumbnail": "http://books.google.com/books/content?id=__6LMQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=__6LMQEACAAJ&dq=Nightrise&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 138,
+            "title": "Necropolis: Anthony Horowitz",
+            "ISBN_10": "1406338893",
+            "thumbnail": "http://books.google.com/books/content?id=2W_XMQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=2W_XMQEACAAJ&dq=Necropolis:+Anthony+Horowitz&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 139,
+            "title": "Oblivion: Anthony Horowitz",
+            "ISBN_10": "1406327441",
+            "thumbnail": "http://books.google.com/books/content?id=7H3uMQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=7H3uMQEACAAJ&dq=Oblivion:+Anthony+Horowitz&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 140,
+            "title": "Legend: Marie Lu",
+            "ISBN_10": "9780142422076",
+            "thumbnail": "http://books.google.com/books/content?id=QV2JDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=QV2JDQAAQBAJ&dq=Legend:+Marie+Lu&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 141,
+            "title": "Prodigy",
+            "ISBN_10": "9780142427552",
+            "thumbnail": "http://books.google.com/books/content?id=7zSNDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=7zSNDQAAQBAJ&dq=Prodigy&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 142,
+            "title": "Champion",
+            "ISBN_10": "9780147512284",
+            "thumbnail": "http://books.google.com/books/content?id=ncbWDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=ncbWDgAAQBAJ&dq=Champion&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 143,
+            "title": "Hatchet",
+            "ISBN_10": "9781442403321",
+            "thumbnail": "http://books.google.com/books/content?id=QdX94z_OoukC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "https://play.google.com/store/books/details?id=QdX94z_OoukC&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 144,
+            "title": "The River",
+            "ISBN_10": "9780525563532",
+            "thumbnail": "http://books.google.com/books/content?id=VZHODwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=VZHODwAAQBAJ&dq=The+River&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 145,
+            "title": "Miss Peregrine's Home for Peculiar Children",
+            "ISBN_10": "9781594745133",
+            "thumbnail": "http://books.google.com/books/content?id=pkGqafH1V40C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "https://play.google.com/store/books/details?id=pkGqafH1V40C&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 146,
+            "title": "Unwind: Neal Shusterman",
+            "ISBN_10": "9781416912057",
+            "thumbnail": "http://books.google.com/books/content?id=W1PXSW4R2xsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=W1PXSW4R2xsC&dq=Unwind:+Neal+Shusterman&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 147,
+            "title": "Unwholly: Neal Shusterman",
+            "ISBN_10": "9781442423671",
+            "thumbnail": "http://books.google.com/books/content?id=4ZJFAQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=4ZJFAQAAQBAJ&dq=Unwholly:+Neal+Shusterman&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 148,
+            "title": "Unsouled: Neal Shusterman",
+            "ISBN_10": "147111810X",
+            "thumbnail": "http://books.google.com/books/content?id=DzNAlAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=DzNAlAEACAAJ&dq=Unsouled:+Neal+Shusterman&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 149,
+            "title": "Undivided",
+            "ISBN_10": "9781608466177",
+            "thumbnail": "http://books.google.com/books/content?id=rDqHDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=rDqHDAAAQBAJ&dq=Undivided&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 150,
+            "title": "Endgame: The Calling",
+            "ISBN_10": "0062332597",
+            "thumbnail": "http://books.google.com/books/content?id=OKfTrQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=OKfTrQEACAAJ&dq=Endgame:+The+Calling&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 151,
+            "title": "Sky Key",
+            "ISBN_10": "0007585233",
+            "thumbnail": "http://books.google.com/books/content?id=uiMtjgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=uiMtjgEACAAJ&dq=Sky+Key&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 152,
+            "title": "Endgame: Rules of the Game",
+            "ISBN_10": "9780062332608",
+            "thumbnail": "http://books.google.com/books/content?id=dvZzAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "https://play.google.com/store/books/details?id=dvZzAwAAQBAJ&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": "",
+            "title": "I, Q.: Independence Hall",
+            "ISBN_10": "0329798278",
+            "thumbnail": "https://books.google.com/books/content?id=B027BgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=_c-dzgEACAAJ&dq=I,+Q.:+Independence+Hall&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 153,
+            "title": "I.Q. Kitty Hawk",
+            "ISBN_10": "9781627531016",
+            "thumbnail": "http://books.google.com/books/content?id=1Nu7BgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "https://play.google.com/store/books/details?id=1Nu7BgAAQBAJ&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 154,
+            "title": "I.Q. The Alamo",
+            "ISBN_10": "1585368210",
+            "thumbnail": "http://books.google.com/books/content?id=CZKzNAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=CZKzNAEACAAJ&dq=I.Q.+The+Alamo&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 155,
+            "title": "I.Q. The White House",
+            "ISBN_10": "1585364568",
+            "thumbnail": "http://books.google.com/books/content?id=zwDKPAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=zwDKPAAACAAJ&dq=I.Q.+The+White+House&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 156,
+            "title": "I.Q. The Windy City",
+            "ISBN_10": "1585368237",
+            "thumbnail": "http://books.google.com/books/content?id=YdS2mQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=YdS2mQEACAAJ&dq=I.Q.+The+Windy+City&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 157,
+            "title": "I.Q. Alcatraz",
+            "ISBN_10": "9781627537667",
+            "thumbnail": "http://books.google.com/books/content?id=a-q7BgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "https://play.google.com/store/books/details?id=a-q7BgAAQBAJ&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 158,
+            "title": "Peak: Roland Smith",
+            "ISBN_10": "0545038138",
+            "thumbnail": "http://books.google.com/books/content?id=h4dHrGsh1RAC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=h4dHrGsh1RAC&dq=Peak:+Roland+Smith&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 159,
+            "title": "Descent: Roland Smith",
+            "ISBN_10": "9780544859760",
+            "thumbnail": "http://books.google.com/books/content?id=LSL_DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=LSL_DwAAQBAJ&dq=Descent:+Roland+Smith&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 160,
+            "title": "Among the Hidden",
+            "ISBN_10": "9780689848070",
+            "thumbnail": "http://books.google.com/books/content?id=gSSdNmrNm6wC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "https://play.google.com/store/books/details?id=gSSdNmrNm6wC&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 161,
+            "title": "Among the Imposters",
+            "ISBN_10": "0689839081",
+            "thumbnail": "http://books.google.com/books/content?id=Ni4aVkglKpcC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=Ni4aVkglKpcC&dq=Among+the+Imposters&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 162,
+            "title": "Among the Betrayed",
+            "ISBN_10": "9780689839054",
+            "thumbnail": "http://books.google.com/books/content?id=Mbnle5X2yGYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=Mbnle5X2yGYC&dq=Among+the+Betrayed&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 163,
+            "title": "Among the Barons",
+            "ISBN_10": "9781442443051",
+            "thumbnail": "http://books.google.com/books/content?id=rFxEcarr9BEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "https://play.google.com/store/books/details?id=rFxEcarr9BEC&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 164,
+            "title": "Among the Brave",
+            "ISBN_10": "9781439106709",
+            "thumbnail": "http://books.google.com/books/content?id=7Mv4vgSas-UC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "https://play.google.com/store/books/details?id=7Mv4vgSas-UC&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 165,
+            "title": "Among the Enemy",
+            "ISBN_10": "0689857977",
+            "thumbnail": "http://books.google.com/books/content?id=hKSnngEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=hKSnngEACAAJ&dq=Among+the+Enemy&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 166,
+            "title": "Among the Free",
+            "ISBN_10": "9780689857997",
+            "thumbnail": "http://books.google.com/books/content?id=5uwYI0kfqowC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=5uwYI0kfqowC&dq=Among+the+Free&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 167,
+            "title": "No Safety in Numbers",
+            "ISBN_10": "9780142425978",
+            "thumbnail": "http://books.google.com/books/content?id=S-ZvDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=S-ZvDwAAQBAJ&dq=No+Safety+in+Numbers&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 168,
+            "title": "Artemis",
+            "ISBN_10": "9780553448146",
+            "thumbnail": "http://books.google.com/books/content?id=o6leDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=o6leDwAAQBAJ&dq=Artemis&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 169,
+            "title": "Fork, the Witch, and the Worm : Tales from Alaga\u00ebsia Volume 1",
+            "ISBN_10": "9781984894885",
+            "thumbnail": "http://books.google.com/books/content?id=wCRyDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "https://play.google.com/store/books/details?id=wCRyDwAAQBAJ&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 170,
+            "title": "Stormbreaker: yDYfEAAAQBAJ",
+            "ISBN_10": "9780142406113",
+            "thumbnail": "http://books.google.com/books/content?id=yDYfEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=yDYfEAAAQBAJ&dq=Stormbreaker:+yDYfEAAAQBAJ&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 171,
+            "title": "Point Blanc",
+            "ISBN_10": "0142406120",
+            "thumbnail": "http://books.google.com/books/content?id=REKIbk12HxkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=REKIbk12HxkC&dq=Point+Blanc&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 172,
+            "title": "Skeleton Key: Alex Rider",
+            "ISBN_10": "9781406360219",
+            "thumbnail": "http://books.google.com/books/content?id=mYaPEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=mYaPEAAAQBAJ&dq=Skeleton+Key:+Alex+Rider&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 173,
+            "title": "Eagle Strike: Alex Rider",
+            "ISBN_10": "9781406360226",
+            "thumbnail": "http://books.google.com/books/content?id=nYaPEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=nYaPEAAAQBAJ&dq=Eagle+Strike:+Alex+Rider&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 174,
+            "title": "Scorpia: Alex Rider",
+            "ISBN_10": "9781406360233",
+            "thumbnail": "http://books.google.com/books/content?id=n4aPEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=n4aPEAAAQBAJ&dq=Scorpia:+Alex+Rider&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 175,
+            "title": "Ark Angel: Alex Rider",
+            "ISBN_10": "0142407380",
+            "thumbnail": "http://books.google.com/books/content?id=LvL_Ruq9fSsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=LvL_Ruq9fSsC&dq=Ark+Angel:+Alex+Rider&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 176,
+            "title": "Snakehead: Alex Rider",
+            "ISBN_10": "9781406360257",
+            "thumbnail": "http://books.google.com/books/content?id=o4aPEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=o4aPEAAAQBAJ&dq=Snakehead:+Alex+Rider&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 177,
+            "title": "Crocodile Tears: Alex Rider",
+            "ISBN_10": "9781406360264",
+            "thumbnail": "http://books.google.com/books/content?id=pYaPEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=pYaPEAAAQBAJ&dq=Crocodile+Tears:+Alex+Rider&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 178,
+            "title": "Scorpia Rising: Alex Rider",
+            "ISBN_10": "9780142419854",
+            "thumbnail": "http://books.google.com/books/content?id=TjlaEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=TjlaEAAAQBAJ&dq=Scorpia+Rising:+Alex+Rider&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 179,
+            "title": "Russian Roulette: The Story of an Assassin",
+            "ISBN_10": "9780147512314",
+            "thumbnail": "http://books.google.com/books/content?id=tw0YEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=tw0YEAAAQBAJ&dq=Russian+Roulette:+The+Story+of+an+Assassin&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 180,
+            "title": "Artemis Fowl",
+            "ISBN_10": "043934445X",
+            "thumbnail": "http://books.google.com/books/content?id=QMSengR4VnwC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=QMSengR4VnwC&dq=Artemis+Fowl&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 181,
+            "title": "The Arctic Incident",
+            "ISBN_10": "9781423132196",
+            "thumbnail": "http://books.google.com/books/content?id=vLfn72GOVKwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "https://play.google.com/store/books/details?id=vLfn72GOVKwC&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 182,
+            "title": "The Eternity Code",
+            "ISBN_10": "9780141339115",
+            "thumbnail": "http://books.google.com/books/content?id=N0N9XcDabrgC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=N0N9XcDabrgC&dq=The+Eternity+Code&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 183,
+            "title": "Artemis Fowl and The Opal Deception",
+            "ISBN_10": "9780141339139",
+            "thumbnail": "http://books.google.com/books/content?id=mbJaTyJzRJ4C&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=mbJaTyJzRJ4C&dq=Artemis+Fowl+and+The+Opal+Deception&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 184,
+            "title": "Artemis Fowl and the Lost Colony",
+            "ISBN_10": "9780141339146",
+            "thumbnail": "http://books.google.com/books/content?id=cfEaYeAGBS0C&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=cfEaYeAGBS0C&dq=Artemis+Fowl+and+the+Lost+Colony&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 185,
+            "title": "Aretemis Fowl. The Time Paradox",
+            "ISBN_10": "9780141339122",
+            "thumbnail": "http://books.google.com/books/content?id=QD-ot49vJ_UC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=QD-ot49vJ_UC&dq=Aretemis+Fowl.+The+Time+Paradox&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 186,
+            "title": "Artemis Fowl. The Atlantis Complex",
+            "ISBN_10": "9780141328034",
+            "thumbnail": "http://books.google.com/books/content?id=mNzNCHhqFwcC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=mNzNCHhqFwcC&dq=Artemis+Fowl.+The+Atlantis+Complex&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 187,
+            "title": "Red Pyramid, The (The Kane Chronicles, Book 1)",
+            "ISBN_10": "9781423142492",
+            "thumbnail": "http://books.google.com/books/content?id=rYGJELZ1Y4QC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "https://play.google.com/store/books/details?id=rYGJELZ1Y4QC&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 188,
+            "title": "The Serpent's Shadow",
+            "ISBN_10": "9780756400613",
+            "thumbnail": "http://books.google.com/books/content?id=TlGJEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=TlGJEAAAQBAJ&dq=The+Serpent%27s+Shadow&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 189,
+            "title": "The Throne of Fire",
+            "ISBN_10": "9781423154389",
+            "thumbnail": "http://books.google.com/books/content?id=othICd7x3tMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "https://play.google.com/store/books/details?id=othICd7x3tMC&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 190,
+            "title": "The Lightning Thief",
+            "ISBN_10": "9781423140344",
+            "thumbnail": "http://books.google.com/books/content?id=MpC3_SuCss4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "https://play.google.com/store/books/details?id=MpC3_SuCss4C&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 191,
+            "title": "The Sea of Monsters",
+            "ISBN_10": "0141346132",
+            "thumbnail": "http://books.google.com/books/content?id=8yWqlAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=8yWqlAEACAAJ&dq=The+Sea+of+Monsters&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 192,
+            "title": "The Titan's Curse",
+            "ISBN_10": "9780739350331",
+            "thumbnail": "http://books.google.com/books/content?id=OcyOEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=OcyOEAAAQBAJ&dq=The+Titan%27s+Curse&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 193,
+            "title": "Battle of the Labyrinth, The (Percy Jackson and the Olympians, Book 4)",
+            "ISBN_10": "9781423131984",
+            "thumbnail": "http://books.google.com/books/content?id=K_ZF6kZ9MlgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "https://play.google.com/store/books/details?id=K_ZF6kZ9MlgC&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 194,
+            "title": "The Last Olympian",
+            "ISBN_10": "9780141962306",
+            "thumbnail": "http://books.google.com/books/content?id=dhzuIutwYG0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=dhzuIutwYG0C&dq=The+Last+Olympian&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 195,
+            "title": "The Demigod Files",
+            "ISBN_10": "0141331461",
+            "thumbnail": "http://books.google.com/books/content?id=4k-QQAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=4k-QQAAACAAJ&dq=The+Demigod+Files&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 196,
+            "title": "Tales of the Greek Heros: Roger Green",
+            "ISBN_10": "9780141962092",
+            "thumbnail": "http://books.google.com/books/content?id=J84raSN9rXoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=J84raSN9rXoC&dq=Tales+of+the+Greek+Heros:+Roger+Green&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 197,
+            "title": "The Lost Hero",
+            "ISBN_10": "1690304812",
+            "thumbnail": "http://books.google.com/books/content?id=4Hw3zgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=4Hw3zgEACAAJ&dq=The+Lost+Hero&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 198,
+            "title": "The Son of Neptune",
+            "ISBN_10": "1423141997",
+            "thumbnail": "http://books.google.com/books/content?id=71DTMgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=71DTMgEACAAJ&dq=The+Son+of+Neptune&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 199,
+            "title": "The Mark of Athena",
+            "ISBN_10": "1423142004",
+            "thumbnail": "http://books.google.com/books/content?id=5AnxngEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=5AnxngEACAAJ&dq=The+Mark+of+Athena&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 200,
+            "title": "The House of Hades",
+            "ISBN_10": "0141339195",
+            "thumbnail": "http://books.google.com/books/content?id=bcPflgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=bcPflgEACAAJ&dq=The+House+of+Hades&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 201,
+            "title": "The Blood of Olympus",
+            "ISBN_10": "0141339241",
+            "thumbnail": "http://books.google.com/books/content?id=yKvsoQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=yKvsoQEACAAJ&dq=The+Blood+of+Olympus&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 202,
+            "title": "I am Number Four",
+            "ISBN_10": "0061969575",
+            "thumbnail": "http://books.google.com/books/content?id=01A2cgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=01A2cgAACAAJ&dq=I+am+Number+Four&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 203,
+            "title": "The Power of Six",
+            "ISBN_10": "9780062077868",
+            "thumbnail": "http://books.google.com/books/content?id=JAseBBv3tUwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "https://play.google.com/store/books/details?id=JAseBBv3tUwC&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 204,
+            "title": "The Rise of Nine",
+            "ISBN_10": "9780062190185",
+            "thumbnail": "http://books.google.com/books/content?id=kyuzZ_kqxAoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "https://play.google.com/store/books/details?id=kyuzZ_kqxAoC&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 205,
+            "title": "The Fall of Five",
+            "ISBN_10": "9780062239204",
+            "thumbnail": "http://books.google.com/books/content?id=BP9A4FB0dfgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "https://play.google.com/store/books/details?id=BP9A4FB0dfgC&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 206,
+            "title": "The Revenge of Seven",
+            "ISBN_10": "0062194739",
+            "thumbnail": "http://books.google.com/books/content?id=ZV_eoQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=ZV_eoQEACAAJ&dq=The+Revenge+of+Seven&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 207,
+            "title": "The Fate of Ten",
+            "ISBN_10": "0062194763",
+            "thumbnail": "http://books.google.com/books/content?id=MBVhjgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=MBVhjgEACAAJ&dq=The+Fate+of+Ten&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 208,
+            "title": "United as One",
+            "ISBN_10": "1405934336",
+            "thumbnail": "http://books.google.com/books/content?id=WLrjtAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=WLrjtAEACAAJ&dq=United+as+One&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 209,
+            "title": "I Am Number Four : the Lost Files",
+            "ISBN_10": "0062211102",
+            "thumbnail": "http://books.google.com/books/content?id=9ZeDvQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=9ZeDvQEACAAJ&dq=I+Am+Number+Four+:+the+Lost+Files&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 210,
+            "title": "Harry Potter And The Sorcer's Stone (The Sorcerer's Stone)",
+            "ISBN_10": "0590353403",
+            "thumbnail": "http://books.google.com/books/content?id=kTH6zAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=kTH6zAEACAAJ&dq=Harry+Potter+And+The+Sorcer%27s+Stone+(The+Sorcerer%27s+Stone)&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 211,
+            "title": "Harry Potter and the Chamber of Secrets",
+            "ISBN_10": "1338716530",
+            "thumbnail": "http://books.google.com/books/content?id=Q9gizgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=Q9gizgEACAAJ&dq=Harry+Potter+and+the+Chamber+of+Secrets&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 212,
+            "title": "Harry Potter and the Prisoner of Azkaban",
+            "ISBN_10": "9781781100516",
+            "thumbnail": "http://books.google.com/books/content?id=Sm5AKLXKxHgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "https://play.google.com/store/books/details?id=Sm5AKLXKxHgC&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 213,
+            "title": "Harry Potter and the Goblet of Fire",
+            "ISBN_10": "1338299174",
+            "thumbnail": "http://books.google.com/books/content?id=iZo9swEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=iZo9swEACAAJ&dq=Harry+Potter+and+the+Goblet+of+Fire&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 214,
+            "title": "Harry Potter and the Order of the Phoenix",
+            "ISBN_10": "9781781100530",
+            "thumbnail": "http://books.google.com/books/content?id=zpvysRGsBlwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "https://play.google.com/store/books/details?id=zpvysRGsBlwC&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 215,
+            "title": "Harry Potter and the Half-Blood Prince",
+            "ISBN_10": "0439784549",
+            "thumbnail": "http://books.google.com/books/content?id=L2EQuwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=L2EQuwEACAAJ&dq=Harry+Potter+and+the+Half-Blood+Prince&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 216,
+            "title": "Harry Potter and the Deathly Hallows",
+            "ISBN_10": "0606323511",
+            "thumbnail": "http://books.google.com/books/content?id=zzx1nAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=zzx1nAEACAAJ&dq=Harry+Potter+and+the+Deathly+Hallows&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 217,
+            "title": "Harry Potter and the Tales of Beetle and Bard",
+            "ISBN_10": "9780747599876",
+            "thumbnail": "http://books.google.com/books/content?id=avHMljalfT0C&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=avHMljalfT0C&dq=Harry+Potter+and+the+Tales+of+Beetle+and+Bard&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 218,
+            "title": "Divergent: Veronica Roth",
+            "ISBN_10": "0062024035",
+            "thumbnail": "http://books.google.com/books/content?id=-TUinwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=-TUinwEACAAJ&dq=Divergent:+Veronica+Roth&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 219,
+            "title": "Insurgent: Veronica Roth",
+            "ISBN_10": "0062024051",
+            "thumbnail": "http://books.google.com/books/content?id=CqyUNAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=CqyUNAEACAAJ&dq=Insurgent:+Veronica+Roth&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 220,
+            "title": "Allegiant: Veronica Roth",
+            "ISBN_10": "0007534949",
+            "thumbnail": "http://books.google.com/books/content?id=qttqrgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=qttqrgEACAAJ&dq=Allegiant:+Veronica+Roth&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 221,
+            "title": "The Hunger Games",
+            "ISBN_10": "9780545387200",
+            "thumbnail": "http://books.google.com/books/content?id=zM-vZ-JiSFYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "https://play.google.com/store/books/details?id=zM-vZ-JiSFYC&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 222,
+            "title": "Catching Fire",
+            "ISBN_10": "9780545227247",
+            "thumbnail": "http://books.google.com/books/content?id=FN5wMOZKTYMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "https://play.google.com/store/books/details?id=FN5wMOZKTYMC&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 223,
+            "title": "Mockingjay",
+            "ISBN_10": "1608874974",
+            "thumbnail": "http://books.google.com/books/content?id=G3nxoQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=G3nxoQEACAAJ&dq=Mockingjay&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 224,
+            "title": "The Ruins of Gorlan",
+            "ISBN_10": "0142406635",
+            "thumbnail": "http://books.google.com/books/content?id=PocJx9t4wbUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=PocJx9t4wbUC&dq=The+Ruins+of+Gorlan&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 225,
+            "title": "The Burning Bridge",
+            "ISBN_10": "9781101221228",
+            "thumbnail": "http://books.google.com/books/content?id=41VPewGWxR4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "https://play.google.com/store/books/details?id=41VPewGWxR4C&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 226,
+            "title": "The Icebound Land",
+            "ISBN_10": "9780142410752",
+            "thumbnail": "http://books.google.com/books/content?id=A7xvDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=A7xvDwAAQBAJ&dq=The+Icebound+Land&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 227,
+            "title": "The Battle for Skandia",
+            "ISBN_10": "9780142413401",
+            "thumbnail": "http://books.google.com/books/content?id=H-ZvDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=H-ZvDwAAQBAJ&dq=The+Battle+for+Skandia&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 228,
+            "title": "The Siege of Macindaw (Ranger's Apprentice #6)",
+            "ISBN_10": "9781101133323",
+            "thumbnail": "http://books.google.com/books/content?id=lJlSvEqwLwQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "https://play.google.com/store/books/details?id=lJlSvEqwLwQC&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 229,
+            "title": "Erak's Ransom",
+            "ISBN_10": "9780142415252",
+            "thumbnail": "http://books.google.com/books/content?id=VK6ZDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=VK6ZDwAAQBAJ&dq=Erak%27s+Ransom&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 230,
+            "title": "The Kings of Clonmel",
+            "ISBN_10": "9780142418574",
+            "thumbnail": "http://books.google.com/books/content?id=RK6ZDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=RK6ZDwAAQBAJ&dq=The+Kings+of+Clonmel&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 231,
+            "title": "Halt's Peril",
+            "ISBN_10": "9780142418581",
+            "thumbnail": "http://books.google.com/books/content?id=gm2mDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=gm2mDwAAQBAJ&dq=Halt%27s+Peril&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 232,
+            "title": "The Emperor of Nihon-Ja",
+            "ISBN_10": "9780142418598",
+            "thumbnail": "http://books.google.com/books/content?id=aq-ZDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=aq-ZDwAAQBAJ&dq=The+Emperor+of+Nihon-Ja&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 233,
+            "title": "The Royal Ranger",
+            "ISBN_10": "9780593113493",
+            "thumbnail": "http://books.google.com/books/content?id=2b58EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=2b58EAAAQBAJ&dq=The+Royal+Ranger&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 234,
+            "title": "Gregor the Overlander",
+            "ISBN_10": "9781407130620",
+            "thumbnail": "http://books.google.com/books/content?id=pJRIBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=pJRIBAAAQBAJ&dq=Gregor+the+Overlander&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 235,
+            "title": "Gregor and the Prophecy of Bane",
+            "ISBN_10": "9781407130637",
+            "thumbnail": "http://books.google.com/books/content?id=V5NIBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=V5NIBAAAQBAJ&dq=Gregor+and+the+Prophecy+of+Bane&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 236,
+            "title": "Gregor and the Curse of the Warmbloods",
+            "ISBN_10": "9781407130644",
+            "thumbnail": "http://books.google.com/books/content?id=OJVIBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=OJVIBAAAQBAJ&dq=Gregor+and+the+Curse+of+the+Warmbloods&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 237,
+            "title": "Gregor and the Marks of Secret",
+            "ISBN_10": "0439791464",
+            "thumbnail": "http://books.google.com/books/content?id=fcUUnwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=fcUUnwEACAAJ&dq=Gregor+and+the+Marks+of+Secret&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 238,
+            "title": "Gregor and the Code of Claw",
+            "ISBN_10": "9781407130668",
+            "thumbnail": "http://books.google.com/books/content?id=qpZIBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=qpZIBAAAQBAJ&dq=Gregor+and+the+Code+of+Claw&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 239,
+            "title": "Septimus Heap, Book One: Magyk",
+            "ISBN_10": "9780060577339",
+            "thumbnail": "http://books.google.com/books/content?id=i9Z-oUOCNPcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=i9Z-oUOCNPcC&dq=Septimus+Heap,+Book+One:+Magyk&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 240,
+            "title": "Flyte",
+            "ISBN_10": "1439581878",
+            "thumbnail": "http://books.google.com/books/content?id=fnwDPwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=fnwDPwAACAAJ&dq=Flyte&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 241,
+            "title": "Physik",
+            "ISBN_10": "9781408814918",
+            "thumbnail": "http://books.google.com/books/content?id=6hwc8qXemx8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=6hwc8qXemx8C&dq=Physik&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 242,
+            "title": "Septimus Heap, Book Four: Queste",
+            "ISBN_10": "9780061757051",
+            "thumbnail": "http://books.google.com/books/content?id=-nZSkB5JDusC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "https://play.google.com/store/books/details?id=-nZSkB5JDusC&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 243,
+            "title": "Septimus Heap, Book Five: Syren",
+            "ISBN_10": "9780061924194",
+            "thumbnail": "http://books.google.com/books/content?id=GzTTrLaZNlMC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=GzTTrLaZNlMC&dq=Septimus+Heap,+Book+Five:+Syren&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 244,
+            "title": "Septimus Heap, Book Six: Darke",
+            "ISBN_10": "0061242446",
+            "thumbnail": "http://books.google.com/books/content?id=w9ZlngEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=w9ZlngEACAAJ&dq=Septimus+Heap,+Book+Six:+Darke&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 245,
+            "title": "Septimus Heap, Book Seven: Fyre",
+            "ISBN_10": "9781408806258",
+            "thumbnail": "http://books.google.com/books/content?id=eracAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=eracAgAAQBAJ&dq=Septimus+Heap,+Book+Seven:+Fyre&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 246,
+            "title": "The Recruit: CHERUB",
+            "ISBN_10": "9781481426176",
+            "thumbnail": "http://books.google.com/books/content?id=i_OeAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "https://play.google.com/store/books/details?id=i_OeAgAAQBAJ&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 247,
+            "title": "The Dealer: CHERUB",
+            "ISBN_10": "9781442413610",
+            "thumbnail": "http://books.google.com/books/content?id=qAYXRnKgT4sC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=qAYXRnKgT4sC&dq=The+Dealer:+CHERUB&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 248,
+            "title": "Maximum Security: CHERUB",
+            "ISBN_10": "9781481426183",
+            "thumbnail": "http://books.google.com/books/content?id=iPKeAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "https://play.google.com/store/books/details?id=iPKeAgAAQBAJ&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 249,
+            "title": "The Killing (CHERUB #4)",
+            "ISBN_10": "9781442413634",
+            "thumbnail": "http://books.google.com/books/content?id=YUu3xWcwr0UC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=YUu3xWcwr0UC&dq=The+Killing+(CHERUB&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 250,
+            "title": "Divine Madness: CHERUB",
+            "ISBN_10": "9781442413641",
+            "thumbnail": "http://books.google.com/books/content?id=S_CxDFxOTnAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=S_CxDFxOTnAC&dq=Divine+Madness:+CHERUB&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 251,
+            "title": "Man vs. Beast (Cherub)",
+            "ISBN_10": "9781442413658",
+            "thumbnail": "http://books.google.com/books/content?id=6TX6AAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=6TX6AAAAQBAJ&dq=Man+vs.+Beast+(Cherub)&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 252,
+            "title": "The Fall: CHERUB",
+            "ISBN_10": "9781442499478",
+            "thumbnail": "http://books.google.com/books/content?id=AqEqAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=AqEqAwAAQBAJ&dq=The+Fall:+CHERUB&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 253,
+            "title": "Mad Dogs: CHERUB",
+            "ISBN_10": "0340911719",
+            "thumbnail": "http://books.google.com/books/content?id=cQ5wAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=cQ5wAAAACAAJ&dq=Mad+Dogs:+CHERUB&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 254,
+            "title": "The Sleepwalker: CHERUB",
+            "ISBN_10": "9781481456647",
+            "thumbnail": "http://books.google.com/books/content?id=pxOKDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=pxOKDwAAQBAJ&dq=The+Sleepwalker:+CHERUB&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 255,
+            "title": "Cherub 10 The General",
+            "ISBN_10": "9781481456661",
+            "thumbnail": "http://books.google.com/books/content?id=V1EADAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=V1EADAAAQBAJ&dq=Cherub+10+The+General&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 256,
+            "title": "Brigands M.C.: CHERUB",
+            "ISBN_10": "9781481456722",
+            "thumbnail": "http://books.google.com/books/content?id=Y02LDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=Y02LDgAAQBAJ&dq=Brigands+M.C.:+CHERUB&hl=&source=gbs_api",
+            "favorite": false
+        },
+        {
+            "id": 257,
+            "title": "Shadow Wave: CHERUB",
+            "ISBN_10": "9781481456753",
+            "thumbnail": "http://books.google.com/books/content?id=k2c6DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=k2c6DwAAQBAJ&dq=Shadow+Wave:+CHERUB&hl=&source=gbs_api",
+            "favorite": false
+        }
+    ]
+}
